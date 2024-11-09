@@ -195,7 +195,7 @@ class SiteWrapper extends React.Component<Props, State> {
           navItems: (
             <Nav.Item type="div" className="d-none d-md-flex">
               <Button
-                href="https://github.com/tabler/tabler-react"
+                href="https://github.com/romeoscript/mavencode"
                 target="_blank"
                 outline
                 size="sm"
@@ -274,7 +274,7 @@ class SiteWrapper extends React.Component<Props, State> {
               </Grid.Col>
               <Grid.Col auto={true}>
                 <Button
-                  href="https://github.com/tabler/tabler-react"
+                  href="https://github.com/romeoscript/mavencode"
                   size="sm"
                   outline
                   color="primary"
